@@ -1,0 +1,17 @@
+{
+    "name": "rest-jobs",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech",
+    "hash": "3VVqLzxxLEX4AZCQZDm6Phe3juhPL4XYfrHNde4UG9A",
+    "version": "0.2.2",
+    "description": ""
+}
